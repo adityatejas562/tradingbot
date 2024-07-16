@@ -1,2 +1,2 @@
-## Trying to make  a backend application for trading between the  exchanges that is liquid 
+## A trading bot that can resolve arbitrage between exchanges
 
