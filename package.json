@@ -1,0 +1,17 @@
+{
+  "name": "trade-bot",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/request": "^2.48.12",
+    "axios": "^1.7.2",
+    "crypto": "^1.0.1",
+    "request": "^2.88.2"
+  }
+}
